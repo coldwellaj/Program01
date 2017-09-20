@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Program01</string>
+    <string name="Title">Two Activity App</string>
+    <string name="f_name">First Name</string>
+    <string name="l_name">Last Name</string>
+    <string name="school">School</string>
+    <string name="grad_year">Year of Graduation</string>
+    <string name="degree">Degree (BS/BA/etc</string>
+    <string name="major">Major</string>
+    <string name="activity">Favorite Activity</string>
+    
+</resources>
